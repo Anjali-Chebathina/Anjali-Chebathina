@@ -42,6 +42,26 @@ AI/ML applications and software solutions.
 
 6. [Internship FAQ Chatbot](https://github.com/Anjali-Chebathina/AI-Chatbot-for-Micro-IT)
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Anjali-Chebathina&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anjali-Chebathina&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anjali-Chebathina&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-Chebathina&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/anjali-chebathina/)
