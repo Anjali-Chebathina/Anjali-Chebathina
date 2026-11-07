@@ -15,6 +15,8 @@ AI/ML applications and software solutions.
 - 🌱 Currently strengthening DSA, OOP and software
   engineering fundamentals.
 
+  
+## 🛠️ Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
