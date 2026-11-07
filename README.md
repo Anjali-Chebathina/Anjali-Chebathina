@@ -15,14 +15,6 @@ AI/ML applications and software solutions.
 - 🌱 Currently strengthening DSA, OOP and software
   engineering fundamentals.
 
-## 🛠️ Technical Skills
-
-- **Languages:** Python, SQL
-- **AI/ML:** Machine Learning, NLP, scikit-learn
-- **Frameworks:** Flask, Django, Streamlit, React
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code
-- ## 🛠️ Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
